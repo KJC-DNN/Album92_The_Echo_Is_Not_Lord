@@ -23,5 +23,7 @@ The Harbour of the Word — The Word Is His (7301–7400, sweep 6701–7300)
 
 **Published**
 GitHub: https://github.com/KJC-DNN/Album92_The_Echo_Is_Not_Lord/releases/tag/92.0.0
+
 Archive.org : https://archive.org/details/album-92-the-echo-is-not-lord-main-cover.jpg
+
 Zenodo: https://doi.org/10.5281/zenodo.23212341
